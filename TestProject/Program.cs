@@ -17,7 +17,7 @@ namespace TestProject
         static void Main(string[] args)
         {
             myStopWatch.Start();
-            string path = @"C:\Users\Artem\Desktop\TestTask\444.txt";
+            string path = @"Введите свой путь";
             MakeTriplet(path);
         }
 
